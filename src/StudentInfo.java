@@ -1,3 +1,11 @@
+/*
+ * Author :
+ * When :
+ * Objectives :
+ * Environment : Windows 10, OpenJDK 11.0.16, Eclipse 2022-06
+ */
+
+
 import java.util.Scanner;
 
 public class StudentInfo {
@@ -13,9 +21,10 @@ public class StudentInfo {
 	 System.out.println("주소 : ");
 	 String address = sc.nextLine();
 	 
-	 System.out.println("이름 : " + name);
-	 System.out.println("학번 : " + hakbun);
-	 System.out.println("주소 : " + address);
+		/*
+		 * System.out.println("이름 : " + name); System.out.println("학번 : " + hakbun);
+		 * System.out.println("주소 : " + address);
+		 */
      }
   
 }
