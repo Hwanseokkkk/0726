@@ -29,7 +29,7 @@ public class test2 {
 	  System.out.printf("영어 : %d\n", jimin.eng);
 	  System.out.printf("수학 : %d\n", jimin.mat);
 	  System.out.printf("총점 : %d\n", total);
-	  System.out.printf("평균 : %.2f2", avg);
+	  System.out.printf("평균 : %.2f", avg);
 	  
 	  
   }
